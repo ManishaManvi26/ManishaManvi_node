@@ -6,6 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="8ff236d7-37df-4c90-9563-8dbef83386f4" name="Changes" comment="hello with new files vue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/ManishaManvi_vue/vuefrontend/vue.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
