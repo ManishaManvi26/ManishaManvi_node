@@ -1,0 +1,36 @@
+{
+    "databases": [
+      {
+        "Database": "PostgreSQL",
+        "Description": "Open source RDBMS",
+        "Features": "Supports multiple data types such as Structured, Primitives, Customizations, Document and Geometry",
+        "used": "Apple,IMDB",
+        "SupportedWith":"Python, Java, JavaScript" 
+      },
+      {
+        "Name": "SQL",
+        "Description": "relational DBMS developed by Microsoft",
+        "Features": "High Performance and availability,Robust transactional support,Supports Persistent Memory devices",
+        "Used": "Microsoft,Hepsiburada",
+        "SupportedWith":"Python, Java, JavaScript" 
+      },
+      {
+        "Name": "SQLite",
+        "Description": "visual, open-source, zero-configuration and transactional relational database",
+        "Features": "serverless",
+        "Used": "google"
+      },
+      {
+        "Name": "NOSQL",
+        "Description": 4,
+        "Features": "RDS",
+        "Used": "amazon"
+      },
+      {
+        "Name": "RDS",
+        "Description": 5,
+        "Features": "PL/SQL",
+        "Used": "Microsoft"
+      }
+    ]
+  }
