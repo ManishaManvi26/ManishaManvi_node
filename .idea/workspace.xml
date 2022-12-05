@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ff236d7-37df-4c90-9563-8dbef83386f4" name="Changes" comment="">
+    <list default="true" id="8ff236d7-37df-4c90-9563-8dbef83386f4" name="Changes" comment="hello with new files vue">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7edfa95e-357f-4f4f-84c3-23ea4ddce0fb" />
+        <option name="url" value="https://github.com/ManishaManvi26/ManishaManvi_node.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -98,13 +111,49 @@
       <option name="project" value="LOCAL" />
       <updated>1670263570439</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="hello with new files">
+      <created>1670263794913</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670263794913</updated>
+    </task>
+    <task id="LOCAL-00008" summary="hello with new files vue">
+      <created>1670264153841</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670264153841</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hello with new files vue">
+      <created>1670264311032</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670264311032</updated>
+    </task>
+    <task id="LOCAL-00010" summary="hello with new files vue">
+      <created>1670264428806</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670264428806</updated>
+    </task>
+    <task id="LOCAL-00011" summary="hello with new files vue">
+      <created>1670264588345</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670264588345</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello commit" />
     <MESSAGE value="hello commit new commit" />
     <MESSAGE value="hello with new files" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello with new files" />
+    <MESSAGE value="hello with new files vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello with new files vue" />
   </component>
 </project>
