@@ -18,7 +18,7 @@
         "Database": "SQLite",
         "Description": "visual, open-source, zero-configuration and transactional relational database",
         "Features": "serverless",
-        "Used": "Microsoft,Hepsiburada",
+        "Used": "Microsoft,Hepsiburad",
         "SupportedWith":"Python, Java, JavaScript"
       },
       {
