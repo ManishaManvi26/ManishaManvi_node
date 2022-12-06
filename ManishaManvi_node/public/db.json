@@ -8,34 +8,31 @@
         "SupportedWith":"Python, Java, JavaScript" 
       },
       {
-        "Name": "SQL",
+        "Database": "SQL",
         "Description": "relational DBMS developed by Microsoft",
         "Features": "High Performance and availability,Robust transactional support,Supports Persistent Memory devices",
         "Used": "Microsoft,Hepsiburada",
         "SupportedWith":"Python, Java, JavaScript" 
       },
       {
-        "Name": "SQLite",
+        "Database": "SQLite",
         "Description": "visual, open-source, zero-configuration and transactional relational database",
         "Features": "serverless",
-        "Used": "google",
-          "Used": "Microsoft,Hepsiburada",
+        "Used": "Microsoft,Hepsiburada",
         "SupportedWith":"Python, Java, JavaScript"
       },
       {
-        "Name": "NOSQL",
+        "Database": "NOSQL",
         "Description": 4,
         "Features": "RDS",
-        "Used": "amazon",
-          "Used": "Microsoft,Discovery",
+        "Used": "Microsoft,Discovery",
         "SupportedWith":"Python, Java, JavaScript"
       },
       {
-        "Name": "RDS",
+        "Database": "RDS",
         "Description": 5,
         "Features": "PL/SQL",
-        "Used": "Microsoft",
-          "Used": "Microsoft,ALTES",
+        "Used": "Microsoft,ALTES",
         "SupportedWith":"Python, Java, JavaScript"
       }
     ]
