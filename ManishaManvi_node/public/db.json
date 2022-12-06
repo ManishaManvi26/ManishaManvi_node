@@ -3,7 +3,7 @@
       {
         "Database": "PostgreSQL",
         "Description": "Open source RDBMS",
-        "Features": "Supports multiple data types such as Structured, Primitives, Customizations, Document and Geometry",
+        "Features": "Supports multiple data types such as Structured, Primitive, Customizations, Document and Geometry",
         "used": "Apple,IMDB",
         "SupportedWith":"Python, Java, JavaScript" 
       },
